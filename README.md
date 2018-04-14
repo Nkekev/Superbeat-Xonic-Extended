@@ -13,12 +13,12 @@ The content here is subject to further modifications.
 
 HOW TO USE:
 
-Place the folder SUPERBEAT00DLC07 into the ux0:repatch/<TITLEID>/addcont/ folder
-with <TITLEID> the title id of your Superbeat Xonic version (works with all regions).
-Download this file, place into the SUPERBEAT00DLC07 folder : https://my.mixtape.moe/tsikho.mp4 and name it mv_marigold.mp4
+  Place the folder SUPERBEAT00DLC07 into the ux0:repatch/<TITLEID>/addcont/ folder
+  with <TITLEID> the title id of your Superbeat Xonic version (works with all regions).
+  Download this file, place into the SUPERBEAT00DLC07 folder : https://my.mixtape.moe/tsikho.mp4 and name it mv_marigold.mp4
   
 OPTIONNAL:
-You can replace the pic0.png file on ur0:appmeta/<TITLEID>/
+  You can replace the pic0.png file on ur0:appmeta/<TITLEID>/
 
 
 Developped by Nkekev.
