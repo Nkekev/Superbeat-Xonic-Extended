@@ -15,7 +15,7 @@ HOW TO USE:
 
 		Place the folder SUPERBEAT00DLC07 into the ux0:repatch/<TITLEID>/addcont/ folder
 		with <TITLEID> the title id of your Superbeat Xonic version (works with all regions).
-		Download this file, place into the SUPERBEAT00DLC07 folder : https://my.mixtape.moe/tsikho.mp4 and name it mv_marigold.mp4
+		Download this file, place into (create the folders needed) the ux0:repatch/<TITLEID>/Media/StreamingAssets/bga folder : https://my.mixtape.moe/tsikho.mp4 and name it marigold.mp4
   
 OPTIONNAL:
 
