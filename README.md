@@ -1,6 +1,8 @@
 # Superbeat-Xonic-Extended
 A DLC mod for the game Superbeat Xonic on the PlayStation Vita
 
+### UPDATE : This is the early 1st repatch demo edition !! The project has moved here with the Mid Dev Demo available : https://gitlab.com/Nkekev/Superbeat-Xonic-Extended
+
 The project is at its very beginning step, this is a PREVIEW DEMO made especially for the new rePatch release by @dots_tb
 
 You will need an hacked 3.60/3.65 Vita with (Enso) Henkaku and the rePatch plugin in order to use this mod. rePatch download and instructions installation can be found here: https://github.com/dots-tb/rePatch-reDux0
