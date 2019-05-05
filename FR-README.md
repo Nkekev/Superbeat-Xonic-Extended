@@ -17,6 +17,7 @@ Ceci est la troisième démo du projet, qui inclut 6 nouvelles musiques exclusiv
 - Magnolia (nouveau)
 - Myosotis (nouveau)
 - Pulses (nouveau)
+- VIP KID (nouveau)
 - Take the World Tonight (nouveau)
 - Expressive Air 06 (PS4)
 - Vertical Horizon (PS4)
