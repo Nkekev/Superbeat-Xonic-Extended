@@ -21,6 +21,7 @@ This is the 3rd demo of the project, it features 6 new custom exclusive songs an
 - Magnolia (new)
 - Myosotis (new)
 - Pulses (new)
+- VIP KID (new)
 - Take the World Tonight (new)
 - Expressive Air 06 (PS4)
 - Vertical Horizon (PS4)
