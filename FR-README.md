@@ -1,7 +1,7 @@
 # Superbeat-Xonic-Extended
 Contenu additionnel pour le jeu Superbeat Xonic sur PSVita
 
-#### MID DEV DEMO
+#### Superbeat XONiC Extended v0.6
 
 Il est nécessaire de posséder une Vita hackée en version 3.60/3.65 ou 3.68 ainsi que le plugin repatch afain de pouvoir utiliser ce mod.  
 rePatch peut être téléchargé ici, avec les instructions d'installation: https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0  
@@ -9,13 +9,25 @@ Vous devez posséder le jeu de base (Cartouche ou démat) ainsi que le patch off
 Ce mod peut être utilisé en parallèle des DLC officiels.  
 Si vous possédez le plugin ioPlus, assurez-vous de posséder la version 0.1 du plugin et non 0.2 (Ni celle d'AutoPlugin)
 
-Ceci est la deuxième démo qui marque la moitié du développement du projet.  
-Cette démo inclut 5 musiques: 3 totalement nouvelles ainsi que 2 venant des DLC gratuits de la version PS4 (Expressive Air et Vertical Horizon)
+Ceci est la troisième démo du projet, qui inclut 6 nouvelles musiques exclusives 5 musiques provenant des DLC PS4.    
+
+#### LISTE DES MUSIQUES
+
+- Marigold (nouveau)
+- Magnolia (nouveau)
+- Myosotis (nouveau)
+- Pulses (nouveau)
+- Take the World Tonight (nouveau)
+- Expressive Air 06 (PS4)
+- Vertical Horizon (PS4)
+- Afternoon Of Summer (PS4)
+- Americana Exotica (PS4)
+- BlueScreen (PS4) 
 
 
 #### INSTALLATION:
 
-##### [Télécharger ici Superbeat XONiC Extended](https://gitlab.com/Nkekev/Superbeat-Xonic-Extended/-/archive/master/Superbeat-Xonic-Extended-master.zip)
+##### [Télécharger ici Superbeat XONiC Extended](https://github.com/Nkekev/Superbeat-Xonic-Extended/archive/0.6.zip)
 
 Placez les dossiers `readdcont` et `repatch` à la racine de votre carte mémoire.  
 Dans les dossiers `readdcont` et `repatch` se trouve un dossier appelé `RENAME_WITH_YOUR_TITLEID`. Renommez-le par le TitleId de votre jeu.  
@@ -37,7 +49,7 @@ Développé par Nkekev. Suivez mon compte twitter afin de suivre l'avancement du
 
 #### AUTRES INFORMATIONS : 
  * L'écran titre ainsi que d'autre fonds ont une meilleure qualité (Venant de la version PS4)
- * La sortie finale du mod est prévue pour Mars 2019 et intégrera 21 nouvelles musiques exclusives ainsi que les 20 musiques des DLCs PS4.
+ * La sortie finale du mod intégrera 21 nouvelles musiques exclusives ainsi que les 20 musiques des DLCs PS4.
 
 
 #### CAPTURES D'ÉCRAN :
@@ -59,7 +71,7 @@ Merci à [@dots_tb](https://twitter.com/dots_tb) avec qui j'ai travaillé longue
 Merci à [@Playiku](https://twitter.com/Playiku) pour son aide aux graphismes.  
 Merci au serveur discord Kancolle Kaipour le support psychologique.  
 
-Artworks de Marigold et Pulses du jeu-vidéo Deemo.  
+Artworks de Marigold, Magnolia, Myosotis et Pulses du jeu-vidéo Deemo.  
 [VIP KID Artwork by funky-tofu](https://www.deviantart.com/funky-tofu/art/REOL-Sigma-673870658)  
 
 ## IMPORTANT: Si vous aimez ce mod, merci d'acheter les musiques de ce mod en ligne pour supporter les artistes originaux qui ont besoin de vivre de leur travail et qui permettent de nous amuser. Pour la sortie finale du projet, veuillez acheter les DLC PS4 ou Switch pour soutenir PMStudios USA, ce sont des indés, ils ont vraiment besoin de soutien. Merci.
