@@ -30,7 +30,7 @@ This is the 3rd demo of the project, it features 6 new custom exclusive songs an
 
 #### HOW TO USE:
 
-##### [Download here Superbeat XONiC Extended]( )
+##### [Download here Superbeat XONiC Extended]( https://github.com/Nkekev/Superbeat-Xonic-Extended/archive/0.6.zip )
 
 Place the folders `readdcont` and `repatch` on the root of your memory card.  
 Into `readdcont` and `repatch` folders, RENAME the folder called `RENAME_WITH_YOUR_TITLEID` by the titleid of your game.  
@@ -52,7 +52,7 @@ Developped by Nkekev. Follow my twitter to get notified about the project: https
 
 #### MISC INFORMATIONS :  
  * The title screen and some backgrounds has better quality coming from the PS4 version.
- * The final project release is planned for March 2019 and will feature 21 new custom songs + the 20 exclusive PS4 dlcs.  
+ * The final project will feature 21 new custom songs + the 20 exclusive PS4 dlcs.  
  
 
 #### SCREENSHOTS :
