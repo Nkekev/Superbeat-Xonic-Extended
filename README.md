@@ -2,7 +2,7 @@
 A DLC mod for the game Superbeat Xonic on the PlayStation Vita
 
 Other languages:
-[Lire ceci en français]
+[Lire ceci en français](https://github.com/Nkekev/Superbeat-Xonic-Extended/edit/master/FR-README.md)
 
 #### Superbeat XONiC Extended v0.6
 
