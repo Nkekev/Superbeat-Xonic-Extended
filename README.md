@@ -45,7 +45,7 @@ The titleid vary depending which region of the game you have so check it and mod
 Rename the `pic0.png` into your `ur0:appmeta/<TITLEID>/pic0.png` (Beware it's ur0 not ux0) folder by `pic0.pngbackup` to do a backup incase.  
 Put the `pic0.png` from XONiC Extended on `ur0:appmeta/<TITLEID>/` (Beware it's ur0 not ux0)  
 IF YOU HAVE OFFICIAL DLC (if you have no official DLC, just skip this part):
-* If you original DLC from Playstation Store, repatchAIDS is no longer needed to make mixed DLC working. Make sure to use the new release of [repatch plugin (3.0)](https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0) 
+* If you have original DLC from Playstation Store, repatchAIDS is no longer needed to make mixed DLC working. Make sure to use the new release of [repatch plugin (3.0)](https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0) 
 * If you have original DLC extracted with Maidumptool, you can just copy the folders named `SUPERBEAT00DLCXX` (XX number from 01 to 06 depending what you have) on the `ux0:readdcont/<TITLEID>` folder  
  
 
