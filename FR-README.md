@@ -3,7 +3,7 @@ Contenu additionnel pour le jeu Superbeat Xonic sur PSVita
 
 #### Superbeat XONiC Extended v0.6
 
-Il est nécessaire de posséder une Vita hackée en version 3.60/3.65 ou 3.68 ainsi que le plugin repatch afain de pouvoir utiliser ce mod.  
+Il est nécessaire de posséder une Vita hackée en version 3.60/3.65 ou 3.68 ainsi que le plugin repatch afin de pouvoir utiliser ce mod (rePatch n'est pas compatible 3.69/3.70 Trinity, veuillez downgrade votre Vita en 3.60/3.65 en utilisant Modoru).   .  
 rePatch peut être téléchargé ici, avec les instructions d'installation: https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0  
 Vous devez posséder le jeu de base (Cartouche ou démat) ainsi que le patch officiel qui permet d'utiliser les DLC.  
 Ce mod peut être utilisé en parallèle des DLC officiels.  
