@@ -6,7 +6,7 @@ Other languages:
 
 #### Superbeat XONiC Extended v0.6
 
-You will need an hacked 3.60/3.65/3.68 Vita with (Enso) Henkaku and the rePatch plugin in order to use this mod (rePatch ISN'T comptaible with 3.69/3.70 Trinity, please downgrade your Vita with Modoru).      
+You will need an hacked 3.60/3.65/3.68 Vita with (Enso) Henkaku and the rePatch plugin in order to use this mod (rePatch ISN'T compatible with 3.69/3.70 Trinity, please downgrade your Vita with Modoru).      
 rePatch download and instructions installation can be found here: https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0  
 Either Cart or digital game can be used. You will need to have the official patch of the game to make the DLC engine working.  
 This mod can be installed alongside all the previous official DLCs. 
