@@ -1,5 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <changeinfo titleid="[PCSB00891]">
+	<changes app_ver="1.6.1">
+    <![CDATA[
+      Superbeat XONiC Extended: 0.61 Version
+      <ul>
+       <li> Fixed buggy notes from PS4 Afternoon of Summer</li>
+      </ul>
+    ]]>
+	</changes>
+	<changes app_ver="1.6.0">
+    <![CDATA[
+      Superbeat XONiC Extended: 0.6 Version
+      <ul>
+        <li> Added Magnolia by “M2U x NICODE”</li>
+		<li> Added Myosotis by “M2U x NICODE”</li>
+		<li> Added Take the World Tonight by “Rinat Arinos”</li>
+		<li> Added Afternoon Of Summer by “Ayako Saso”</li>
+		<li> Added Americana Exotica by “bLiNd”</li>
+		<li> Added Blue Screen by “Takahiro Eguchi”</li>
+      </ul>
+    ]]>
+  </changes>
   <changes app_ver="1.5.0">
     <![CDATA[
       Superbeat XONiC Extended: Mid Dev Demo Content
