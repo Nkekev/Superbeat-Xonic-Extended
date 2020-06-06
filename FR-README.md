@@ -1,15 +1,15 @@
 # Superbeat-Xonic-Extended
 Contenu additionnel pour le jeu Superbeat Xonic sur PSVita
 
-#### Superbeat XONiC Extended v0.6
+#### Superbeat XONiC Extended v0.7
 
-Il est nécessaire de posséder une Vita hackée en version 3.60/3.65 ou 3.68 ainsi que le plugin repatch afin de pouvoir utiliser ce mod (rePatch n'est pas compatible 3.69/3.70 Trinity, veuillez downgrade votre Vita en 3.60/3.65 en utilisant Modoru).   .  
+Il est nécessaire de posséder une Vita hackée en version 3.60/65/68 ainsi que le plugin repatch afin de pouvoir utiliser ce mod (rePatch n'est pas compatible 3.69/70/71/72/73 Trinity, veuillez downgrade votre Vita en 3.60/3.65 en utilisant Modoru).   .  
 rePatch peut être téléchargé ici, avec les instructions d'installation: https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0  
 Vous devez posséder le jeu de base (Cartouche ou démat) ainsi que le patch officiel qui permet d'utiliser les DLC.  
 Ce mod peut être utilisé en parallèle des DLC officiels.  
 Si vous possédez le plugin ioPlus, assurez-vous de posséder la version 0.1 du plugin et non 0.2 (Ni celle d'AutoPlugin)
 
-Ceci est la troisième démo du projet, qui inclut 6 nouvelles musiques exclusives 5 musiques provenant des DLC PS4.    
+Ceci est la quatrième version du projet, qui inclut 10 nouvelles musiques exclusives et l'intégralité des 20 musiques provenant des DLC officiels PS4.    
 
 #### LISTE DES MUSIQUES
 
@@ -19,16 +19,40 @@ Ceci est la troisième démo du projet, qui inclut 6 nouvelles musiques exclusiv
 - Pulses (nouveau)
 - VIP KID (nouveau)
 - Take the World Tonight (nouveau)
+- Brain Power (nouveau)
+- ANiMA (nouveau)
+- Camelia ~ Extended (nouveau)
+- Red Swan (nouveau)
 - Expressive Air 06 (PS4)
 - Vertical Horizon (PS4)
 - Afternoon Of Summer (PS4)
 - Americana Exotica (PS4)
-- BlueScreen (PS4) 
+- BlueScreen (PS4)
+- Debonair Heavy Industry (PS4)
+- Donut Island (PS4)
+- Go Back (PS4)
+- Indigo Wind (PS4)
+- iNSANiTY (PS4)
+- Missing Parts (PS4)
+- Neko-kun (PS4)
+- Oh-Wei-Oh (PS4)
+- PLUS (PS4)
+- Select.Start (PS4)
+- Skyline (PS4)
+- STUTTA 2.0 (PS4)
+- Talk 2 U (PS4)
+- Zombie Chase (PS4)
+- ZZuck ZZuck GRoove (PS4)  
 
+#### AUTRES INFORMATIONS : 
+ * L'écran titre ainsi que d'autre fonds ont une meilleure qualité (Venant de la version PS4)
+ * La sortie finale du mod intégrera 21 nouvelles musiques exclusives ainsi que les 20 musiques des DLCs PS4.  
+ * Les notes boguées des versions officielles de Afternoon of Summer 6Trax FX et Donut Island 6Trax FX ont été réparées.  
+ * Les temps de chargements ont été améliorés depuis la version 0.7, nous vous recommendons de remplacer tous les fichiers lorsque vous procédez à la mise à jour du mod.  
 
 #### INSTALLATION:
 
-##### [Télécharger ici Superbeat XONiC Extended](https://github.com/Nkekev/Superbeat-Xonic-Extended/archive/0.6.zip)
+##### [Télécharger ici Superbeat XONiC Extended](https://github.com/Nkekev/Superbeat-Xonic-Extended/archive/0.7.zip)
 
 Placez les dossiers `readdcont` et `repatch` à la racine de votre carte mémoire.  
 Dans les dossiers `readdcont` et `repatch` se trouve un dossier appelé `RENAME_WITH_YOUR_TITLEID`. Renommez-le par le TitleId de votre jeu.  
@@ -48,9 +72,7 @@ SI VOUS POSSÉDEZ LES DLC OFFICIELS (Sinon passez cette partie):
 
 Développé par Nkekev. Suivez mon compte twitter afin de suivre l'avancement du projet: https://twitter.com/nkekev
 
-#### AUTRES INFORMATIONS : 
- * L'écran titre ainsi que d'autre fonds ont une meilleure qualité (Venant de la version PS4)
- * La sortie finale du mod intégrera 21 nouvelles musiques exclusives ainsi que les 20 musiques des DLCs PS4.
+
 
 
 #### CAPTURES D'ÉCRAN :
@@ -73,6 +95,9 @@ Merci à [@Playiku](https://twitter.com/Playiku) pour son aide aux graphismes.
 Merci au serveur discord Kancolle Kaipour le support psychologique.  
 
 Artworks de Marigold, Magnolia, Myosotis et Pulses du jeu-vidéo Deemo.  
-[VIP KID Artwork by funky-tofu](https://www.deviantart.com/funky-tofu/art/REOL-Sigma-673870658)  
+[VIP KID artwork par funky-tofu](https://www.deviantart.com/funky-tofu/art/REOL-Sigma-673870658)  
+[ANiMA artwork by Yeoniest](https://yeoniest.tumblr.com/post/120188222165/xi-anima)  
+Brain Power artwork du jeu-vidéo Cytus  
+Camelia artwork des cartes officielles illustrées provenant de l'album Millennium Mother Edition Limitée  
 
 ## IMPORTANT: Si vous aimez ce mod, merci d'acheter les musiques de ce mod en ligne pour supporter les artistes originaux qui ont besoin de vivre de leur travail et qui permettent de nous amuser. Pour la sortie finale du projet, veuillez acheter les DLC PS4 ou Switch pour soutenir PMStudios USA, ce sont des indés, ils ont vraiment besoin de soutien. Merci.

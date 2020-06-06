@@ -1,5 +1,32 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <changeinfo titleid="[PCSB00891]">
+	<changes app_ver="1.7.0">
+    <![CDATA[
+      Superbeat XONiC Extended: 0.7 Version
+      <ul>
+        <li> Added Brain Power by “NOMA”</li>
+        <li> Added ANiMA by “Xi”</li>
+		<li> Added Camelia ~ Extended by “Mili”</li>
+		<li> Added Cannibal Coast by “Aural Vampire”</li>
+		<li> Added Red Swan by “Yoshiki feat HYDE”</li>
+		<li> Added Debonair Heavy Industry by “Shinji Hosoe”</li>
+		<li> Added Go Back by “Nauts”</li>
+		<li> Added Indigo Wind by “Ayako Saso”</li>
+		<li> Added iNSANiTY by “Planetboom”</li>
+		<li> Added Missing Parts by “Ayako Saso”</li>
+		<li> Added Neko-kun by “Basiscape”</li>
+		<li> Added Oh-Wei-Oh by “Bentley Jones”</li>
+		<li> Added PLUS by “Nauts”</li>
+		<li> Added Select.Start by “Steven Silo”</li>
+		<li> Added Skyline by “bLiNd”</li>
+		<li> Added STUTTA 2.0 by “Bentley Jones”</li>
+		<li> Added Talk 2 U by “Bentley Jones”</li>
+		<li> Added Zombie Chase by “Shinji Hosoe”</li>
+		<li> Added ZZuck ZZuck GRoove by “Paul Bazooka”</li>
+		<li> Improved loading times for all songs of the mod”</li>
+      </ul>
+    ]]>
+  </changes>
 	<changes app_ver="1.6.1">
     <![CDATA[
       Superbeat XONiC Extended: 0.61 Version
