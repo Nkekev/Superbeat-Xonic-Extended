@@ -56,7 +56,7 @@ This is the 4th version of the project, it features 10 new custom exclusive song
 
 #### HOW TO USE:
 
-##### [Download here Superbeat XONiC Extended]( https://github.com/Nkekev/Superbeat-Xonic-Extended/archive/0.7.zip )
+##### [Download here Superbeat XONiC Extended]( https://github.com/Nkekev/Superbeat-Xonic-Extended/archive/v0.7.zip )
 
 Place the folders `readdcont` and `repatch` on the root of your memory card.  
 Into `readdcont` and `repatch` folders, RENAME the folder called `RENAME_WITH_YOUR_TITLEID` by the titleid of your game.  
