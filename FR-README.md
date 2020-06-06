@@ -68,7 +68,7 @@ Placez le `pic0.png` provenant de XONiC Extended dans `ur0:appmeta/<TITLEID>/` (
 SI VOUS POSSÉDEZ LES DLC OFFICIELS (Sinon passez cette partie):
 * Si vous possédez les DLC officiels provenant du Playstation Store, repatchAIDS n'est plus nécessaire pour les faire fonctionner avec Superbeat XONiC Extended, assurez-vous de posséder [la nouvelle version de repatch (3.0).](https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0)  
 * Si vous possédez les DLC officiels extraits avec Maidumptool, vous pouvez juste copier les dossiers `SUPERBEAT00DLCXX` (XX allant de 01 à 06 suivant ce que vous avez) dans le dossier `ux0:readdcont/<TITLEID>`.  
-* Nous vous recommendons d'utiliser un plugin d'overclock (comme [lolita500](https://github.com/teakhanirons/lolita500) pour PSTV) si possible pour un confort de jeu optimal puisque nous avons constaté de légères désynchronisations entre la vidéo de fond et l'audio sur quelques rares musiques. C'est recommandé si cela vous gène mais pas nécessaire.
+* Nous vous recommendons d'utiliser un plugin d'overclock (comme [lolita500](https://github.com/teakhanirons/lolita500) pour PSTV ou [PSVShell](https://github.com/Electry/PSVshell) pour Vita 1000 et 2000) si possible pour un confort de jeu optimal puisque nous avons constaté de légères désynchronisations entre la vidéo de fond et l'audio sur quelques rares musiques. C'est recommandé si cela vous gène mais pas nécessaire.
   
 
 Développé par Nkekev. Suivez mon compte twitter afin de suivre l'avancement du projet: https://twitter.com/nkekev
