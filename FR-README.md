@@ -7,7 +7,7 @@ Il est nécessaire de posséder une Vita hackée en version 3.60/65/68 ainsi que
 rePatch peut être téléchargé ici, avec les instructions d'installation: https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0  
 Vous devez posséder le jeu de base (Cartouche ou démat) ainsi que le patch officiel qui permet d'utiliser les DLC.  
 Ce mod peut être utilisé en parallèle des DLC officiels.  
-Si vous possédez le plugin ioPlus, assurez-vous de posséder la version 0.1 du plugin et non 0.2 (Ni celle d'AutoPlugin)
+Si vous possédez le plugin ioPlus, assurez-vous de posséder la version 0.1 du plugin et non 0.2 
 
 Ceci est la quatrième version du projet, qui inclut 10 nouvelles musiques exclusives et l'intégralité des 20 musiques provenant des DLC officiels PS4.    
 
