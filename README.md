@@ -100,7 +100,7 @@ Thanks to the Kancolle Kai discord server for psychological support.
 Marigold, Magnolia, Myosotis and Pulses artwork from the videogame Deemo  
 [VIP KID artwork by funky-tofu](https://www.deviantart.com/funky-tofu/art/REOL-Sigma-673870658)  
 [ANiMA artwork by Yeoniest](https://yeoniest.tumblr.com/post/120188222165/xi-anima)  
-Brain Power artwork from the videogame Cytus  
+Brain Power artwork from the videogame Cytus, background video by EXILE-  
 Camelia artwork from the official illustrated cards of Millennium Mother Limited Edition Album  
 
 ## IMPORTANT: If you like the songs provided in this custom DLC, please consider buying the songs online to support the original artists, they need support and be paid for their (commercial) work. For the final release please buy the PS4 or Switch DLCs to support PMStudios USA, they are indies and really need your support. Thank you.
