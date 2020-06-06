@@ -72,7 +72,7 @@ Put the `pic0.png` from XONiC Extended on `ur0:appmeta/<TITLEID>/` (Beware it's 
 IF YOU HAVE OFFICIAL DLC (if you have no official DLC, just skip this part):
 * If you have original DLC from Playstation Store, repatchAIDS is no longer needed to make mixed DLC working. Make sure to use the new release of [repatch plugin (3.0)](https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0) 
 * If you have original DLC extracted with Maidumptool, you can just copy the folders named `SUPERBEAT00DLCXX` (XX number from 01 to 06 depending what you have) on the `ux0:readdcont/<TITLEID>` folder  
-* We recommend you to use an overclocking plugin (like [lolita500](https://github.com/teakhanirons/lolita500) on PSTV) if possible for optimal experience since we encountered minor desyncs between background video and the song on very few tracks. 
+* We recommend you to use an overclocking plugin (like [lolita500](https://github.com/teakhanirons/lolita500) on PSTV) if possible for optimal experience since we encountered minor desyncs between background video and the song on very few tracks. It's recommended but not necessary if it doesn't bother you.  
  
 
 Developped by Nkekev. Follow my Twitter to get notified about the project: https://twitter.com/nkekev
