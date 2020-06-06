@@ -11,8 +11,7 @@ rePatch download and instructions installation can be found here: https://github
 Either Cart or digital game can be used. You will need to have the official patch of the game to make the DLC engine working.  
 This mod can be installed alongside all the previous official DLCs. 
 Like all the DLCs from this game, this won't have any effect on your online leaderboard score.  
-If you have the plugin ioPlus installed, make it sure you have the 0.1 version installed (not the version used in AutoPlugin).
-
+If you have the plugin ioPlus installed, make it sure you have the 0.1 version installed, not the 0.2.  
 This is the 4th version of the project, it features 10 new custom exclusive songs and all the 20 PS4 official DLC songs not released on PSVita.
 
 #### SONGLIST
