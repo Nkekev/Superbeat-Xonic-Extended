@@ -52,7 +52,7 @@ Ceci est la quatrième version du projet, qui inclut 10 nouvelles musiques exclu
 
 #### INSTALLATION:
 
-##### [Télécharger ici Superbeat XONiC Extended](https://github.com/Nkekev/Superbeat-Xonic-Extended/archive/0.7.zip)
+##### [Télécharger ici Superbeat XONiC Extended](https://github.com/Nkekev/Superbeat-Xonic-Extended/archive/v0.7.zip)
 
 Placez les dossiers `readdcont` et `repatch` à la racine de votre carte mémoire.  
 Dans les dossiers `readdcont` et `repatch` se trouve un dossier appelé `RENAME_WITH_YOUR_TITLEID`. Renommez-le par le TitleId de votre jeu.  
