@@ -98,7 +98,7 @@ Merci au serveur discord Kancolle Kaipour le support psychologique.
 Artworks de Marigold, Magnolia, Myosotis et Pulses du jeu-vidéo Deemo.  
 [VIP KID artwork par funky-tofu](https://www.deviantart.com/funky-tofu/art/REOL-Sigma-673870658)  
 [ANiMA artwork by Yeoniest](https://yeoniest.tumblr.com/post/120188222165/xi-anima)  
-Brain Power artwork du jeu-vidéo Cytus  
+Brain Power artwork du jeu-vidéo Cytus, vidéo par EXILE-  
 Camelia artwork des cartes officielles illustrées provenant de l'album Millennium Mother Edition Limitée  
 
 ## IMPORTANT: Si vous aimez ce mod, merci d'acheter les musiques de ce mod en ligne pour supporter les artistes originaux qui ont besoin de vivre de leur travail et qui permettent de nous amuser. Pour la sortie finale du projet, veuillez acheter les DLC PS4 ou Switch pour soutenir PMStudios USA, ce sont des indés, ils ont vraiment besoin de soutien. Merci.
